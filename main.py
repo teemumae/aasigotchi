@@ -1,6 +1,6 @@
-import ???
-import ???
-import ???
+import aasikaytto
+import aasilogiikka
+import aasimaaritelmat
 
 def main():
     aasidata = aasilogiikka.???
