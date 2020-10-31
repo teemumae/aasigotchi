@@ -16,13 +16,12 @@ def main():
             #???
         elif syote == aasimaaritelmat.KUTITA:
             #???
-            break
+            aasilogiikka.kutita
         elif syote == aasimaaritelmat.TYOSKENTELE:
             #???
-            break
+            aasilogiikka.tyoskentele
         elif syote == aasimaaritelmat.ALUSTA:
             #???
-            break
-
+            aasilogiikka.alusta
 if __name__ == "__main__":
    # ???
