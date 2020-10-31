@@ -1,3 +1,5 @@
+import aasilogiikka
+import aasimaaritelmat
 def nayta_tila(tila):
     """
     Tulostaa aasin tilan.

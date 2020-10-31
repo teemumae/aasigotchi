@@ -13,15 +13,18 @@ def main():
             break
         elif syote == aasimaaritelmat.RUOKI:
             aasilogiikka.ruoki
+            aasikaytto.nayta_tila(aasidata)
             #???
         elif syote == aasimaaritelmat.KUTITA:
             #???
             aasilogiikka.kutita
+            aasikaytto.nayta_tila(aasidata)
         elif syote == aasimaaritelmat.TYOSKENTELE:
             #???
             aasilogiikka.tyoskentele
+            aasikaytto.nayta_tila(aasidata)
         elif syote == aasimaaritelmat.ALUSTA:
             #???
             aasilogiikka.alusta
 if __name__ == "__main__":
-   # ???
+    main()
