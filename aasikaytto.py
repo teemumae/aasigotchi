@@ -13,7 +13,7 @@ def nayta_tila(tila):
     """
     Tulostaa aasin tilan.
     """
-    print("Aasi on {} vuotta vanha ja rahaa on {} mk.".format(tila['IKÄ'], tila['RAHA']))
-    print("Kylläisyys: {}".format(tila['KYLLÄISYYS']))
-    print("Onnellisuus:{}".format(tila['ONNELLISUUS']))
-    print("Jaksaminen:{}".format(tila['JAKSAMINEN']))
+    #print("Aasi on {} vuotta vanha ja rahaa on {} mk.".format(tila["IKÄ"], tila["RAHA"]))
+    #print("Kylläisyys: {}".format(tila["KYLLÄISYYS"]))
+    #print("Onnellisuus:{}".format(tila["ONNELLISUUS"]))
+    #print("Jaksaminen:{}".format(tila["JAKSAMINEN"]))
